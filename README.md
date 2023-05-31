@@ -1,1 +1,2 @@
-Hello world
+- Learning JS web development through Full Stack open course.
+- Website: [Link](https://jackhcarney.github.io/)
